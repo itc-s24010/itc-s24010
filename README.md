@@ -1,16 +1,22 @@
-## Hi there 👋
+# GitHub Pages 用ポートフォリオテンプレート
 
-<!--
-**itc-s24010/itc-s24010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+このリポジトリには、すぐに GitHub Pages で公開できるシンプルなポートフォリオテンプレートが含まれています。
 
-Here are some ideas to get you started:
+構成
+- `docs/index.html` — トップページの HTML テンプレート
+- `docs/css/style.css` — スタイル
+- `docs/js/main.js` — テーマ切替と年表示の簡易スクリプト
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+使い方（最短手順）
+1. このリポジトリを GitHub に push します。
+2. リポジトリの Settings > Pages にアクセスします。
+3. Source を `main`（ブランチ）、フォルダを `/docs` に設定して保存します。
+4. 数分待つと公開 URL が表示され、サイトが確認できます。
+
+カスタマイズのヒント
+- `docs/index.html` のテキスト（名前・紹介・プロジェクトリンク）を自分用に書き換えてください。
+- 画像やアセットは `docs/` 以下に入れ、HTML のパスを相対パスに変更してください。
+- より高度なカスタマイズ: React/Vite 等で静的ビルドを作る場合はビルド成果物を `docs/` に出力する方法がおすすめです。
+
+ライセンス
+このテンプレートは自由に利用・改変できます。
