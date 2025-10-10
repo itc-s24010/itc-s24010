@@ -1,7 +1,7 @@
-# 👋 こんにちは、<金城　裕達> — ポートフォリオ
+# 👋 こんにちは、<金城　裕達> — Portfolio
 
-> 学生 / プログラマー / おしゃれでカジュアルなコードが好き  
-> 学習中の言語：`Java`, `Python`, `Kotlin`, `HTML`, `CSS`, `VBA`
+学生 / プログラマー / おしゃれでカジュアルなコードが好き  
+学習中の言語：`Java`, `Python`, `Kotlin`, `HTML`, `CSS`, `VBA`
 
 ---
 
@@ -15,7 +15,7 @@
 - 🎓 学生（専攻 / 学年：`< ITスペシャリスト科　2年>`）
 - 🧭 興味分野：Web開発 / ツール自動化 /
 - 🛠 学習中の言語：`Java` / `Python` / `Kotlin` / `HTML` / `CSS` / `VBA`
-- 🔗 GitHub: [@<your-github-username>](https://github.com/<your-github-username>)
+- 🔗 GitHub: [@<https://github.com/itc-s24010>]
 
 ---
 
