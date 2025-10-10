@@ -1,4 +1,4 @@
-# 👋 こんにちは、<金城　裕達> — Portfolio
+#  金城　裕達 — Portfolio
 
 学生 / プログラマー / おしゃれでカジュアルなコードが好き  
 学習中の言語：`Java`, `Python`, `Kotlin`, `HTML`, `CSS`, `VBA`
