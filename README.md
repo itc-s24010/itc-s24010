@@ -1,78 +1,58 @@
-<!doctype html>
-<html lang="ja">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>ポートフォリオ | Your Name</title>
-    <meta name="description" content="ポートフォリオ - Your Name" />
-  <link rel="stylesheet" href="css/style.css" />
-  </head>
-  <body>
-    <header class="site-header">
-      <div class="container">
-        <h1 class="logo">金城　裕達</h1>
-        <nav>
-          <a href="#projects">Projects</a>
-          <a href="#about">About</a>
-          <a href="#contact">Contact</a>
-          <button id="theme-toggle" aria-label="色テーマ切り替え">🌓</button>
-        </nav>
-      </div>
-    </header>
+# 👋 こんにちは、<あなたの名前> — ポートフォリオ
 
-    <main>
-      <section class="hero container">
-        <h2>こんにちは、金城　裕達 です</h2>
-        <p>学生 —　ITカレッジ沖縄　ITスペシャリスト科　情報工学コース　２年</p>
-        <p class="ctas">
-          <!-- <a class="btn" href="#projects">プロジェクトを見る</a>
-          <a class="btn ghost" href="https://github.com/your-username" target="_blank">GitHub</a> -->
-        </p>
-      </section>
+> 学生 / 好奇心旺盛なプログラマー / おしゃれでカジュアルなコードが好き  
+> 学習中の言語：`Java`, `Python`, `Kotlin`, `HTML`, `CSS`, `VBA`
 
-      <section id="projects" class="projects container">
-        <h3>基本情報</h3>
-        <div class="grid">
-          <article class="card">
-            <h4>経歴</h4>
-            <p></p>
-          </article>
+---
 
-          <article class="card">
-            <h4>自身の強み</h4>
-            <p></p>
-          </article>
+## 🔭 一言自己紹介
+はじめまして！学生エンジニアの **<あなたの名前>** です。  
+コードを書いて学ぶのが大好きで、可読性とデザインの両立を意識して小さなツールからフロントエンド、スクリプトまで手を動かしています。
 
-          <article class="card">
-            <h4>作品</h4>
-            <p>学んだことや貢献点を簡潔に。</p>
-          </article>
-        </div>
-      </section>
+---
 
-      <section id="about" class="about container">
-        <h3>About</h3>
-        <p>経歴、スキル、使用技術などを箇条書き</p>
-        <ul>
-          <li>言語: JavaScript, Python, TypeScript</li>
-          <li>フレームワーク: React, </li>
-          <li>ツール: Git, Docker, </li>
-        </ul>
-      </section>
+## ⚡ ハイライト
+- 🎓 学生（専攻 / 学年：`<例：情報工学 3年>`）
+- 🧭 興味分野：Web開発 / ツール自動化 / モバイル（Kotlin）
+- 🛠 学習中の言語：`Java` / `Python` / `Kotlin` / `HTML` / `CSS` / `VBA`
+- 🔗 GitHub: [@<your-github-username>](https://github.com/<your-github-username>)
 
-      <section id="contact" class="contact container">
-        <h3>Contact</h3>
-        <p>メール: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-        <p>他: <a href="https://linkedin.com" target="_blank">LinkedIn</a> · <a href="https://twitter.com" target="_blank">Twitter</a></p>
-      </section>
-    </main>
+---
 
-    <footer class="site-footer">
-      <div class="container">
-        <p>© <span id="year"></span> Your Name. Built with ❤️ and GitHub Pages.</p>
-      </div>
-    </footer>
+## 🧰 スキル（ざっくり）
+- **言語**
+  - Java — ▮▮▮▮▯
+  - Python — ▮▮▮▯▯
+  - Kotlin — ▮▮▮▯▯
+  - HTML / CSS — ▮▮▮▮▯
+  - VBA — ▮▮▯▯▯
 
-  <script src="js/main.js"></script>
-  </body>
-</html>
+- **ツール / その他**
+  - Git / GitHub（基本〜中級）
+  - REST API の理解
+  - 基本的な SQL
+  - UI デザインの基礎（HTML/CSS）
+
+---
+
+## 🚀 プロジェクト（サンプル）
+> 各プロジェクト名をクリックするとリポジトリやフォルダに飛べる想定です。実際のリンクに置き換えてください。
+
+### 🔸 スレッド掲示板（学習用）
+- 言語: Kotlin / Java  
+- 概要: スレッド表示、投稿、削除（簡易認証）を学ぶためのアプリ。  
+- リンク: `./thread-board`（リポジトリやフォルダパスに差し替えてください）
+
+### 🔸 Excel 自動化ツール
+- 言語: VBA / Python  
+- 概要: 授業の課題や事務作業を自動化するマクロ・スクリプト集。  
+- リンク: `./excel-automation`
+
+### 🔸 ポートフォリオ静的サイト
+- 言語: HTML / CSS  
+- 概要: 自己紹介と作品一覧をまとめた静的サイト（ここにデプロイURLを入れてください）。  
+- リンク: `./portfolio-site`
+
+---
+
+## 📂 リポジトリ構成（例）
