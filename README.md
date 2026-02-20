@@ -51,15 +51,11 @@
 - 概要:  沖縄県内のボウリング場まとめWebサイト
 - リンク: https://web-frontend-kadai.vercel.app/
 
-###  Excel 自動化ツール
-- 言語: 
-- 概要: 
-- リンク: 
 
-###  ポートフォリオ静的サイト
-- 言語: 
-- 概要: 
-- リンク: 
+###  進級制作 オリジナルカードゲーム
+- 言語: Next
+- 概要: ghost filed
+- リンク: https://ghost-field-next-client.vercel.app/game
 
 ---
 
